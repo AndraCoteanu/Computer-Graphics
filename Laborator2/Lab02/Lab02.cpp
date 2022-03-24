@@ -98,7 +98,7 @@ void Display2() {
 //ex 2.1 functie cu 2 cazuri
 void Display3() {
     double ratia = 0.5;
-    double xmax = 100;
+    double xmax = 30;
     double ymax = 1;
 
     glColor3f(1, 0.1, 0.1); // rosu
